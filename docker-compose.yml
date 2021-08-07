@@ -1,0 +1,9 @@
+version: '3.6'
+
+services:
+  runner:
+    image: node:16-alpine3.14
+    volumes:
+      - .:/app
+    working_dir: /app
+

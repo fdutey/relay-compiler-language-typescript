@@ -59,7 +59,6 @@ typings/
 
 .vscode
 .idea/
-/lib
 /bin
 
 .npmrc
